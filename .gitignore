@@ -49,6 +49,8 @@ __pycache__/
 venv/
 env/
 ENV/
+.exe
+.EXE/
 
 
 
